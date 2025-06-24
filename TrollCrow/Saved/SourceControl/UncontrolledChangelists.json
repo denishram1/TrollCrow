@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/BP_CrowCharacter.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Widget/WBP_StatsUI.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Player/BP_CrowCharacter.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Stats/BP_StatComponent.uasset"
+			]
+		}
+	]
+}
