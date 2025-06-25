@@ -5,10 +5,28 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/BP_CrowCharacter.uasset",
 				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Widget/WBP_StatsUI.uasset",
 				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Player/BP_CrowCharacter.uasset",
-				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Stats/BP_StatComponent.uasset"
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Stats/BP_StatComponent.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/U1/D71VNEZWWPI6ZVB6K0YGV2.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Images/WBP_Skill.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Images/WBP_SkillTree.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Images/T_Skill.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Widget/WBP_SkillTree.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Widgets/WBP_StatsUI.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Widgets/WBP_SkillTree.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Widgets/WBP_SkillTreee.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Widgets/WBP_Skill.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/Widgets/WBP_SkillTre.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Images/T.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Images/T_BackGround.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Images/T_Skill1.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Images/T_Skill2.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Images/T_Skill3.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Images/T_Skill4.uasset",
+				"C:/Users/Eurus/TrollCrow/TrollCrow/Content/Blueprint/BP_CrowCharacter.uasset"
 			]
 		}
 	]
